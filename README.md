@@ -245,17 +245,7 @@ Technical     News Agent    Risk Agent
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome.
-
-Feel free to fork the repository and submit pull requests.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 
@@ -267,6 +257,6 @@ M.Tech AI & ML
 
 VIT Vellore
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/abhaynathk
 
-LinkedIn: YOUR_LINKEDIN
+LinkedIn: https://www.linkedin.com/in/abhaynathk/
